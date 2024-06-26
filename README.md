@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Oh, Hi There!
 
 <!--
 **tamPML/tamPML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+- 🛠️ Just an engineer trying to make sense of code (mostly Googling for solutions)
+- 🐾 Spends an inordinate amount of time trying to make sure my two dogs don't kill themselves
+- 🎨 I do code and I do art. Jack of both trades makes me a master of none 😶
+- 🌟 Don't try to connect with me because I am just as clueless as you are
+
+  kthx bye (╯°□°）╯︵ ┻━┻
